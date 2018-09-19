@@ -1,0 +1,24 @@
+{
+    "datos": [
+        {
+            "nombre":"ahri",
+            "icono": "iamgen"
+        },
+        {
+            "nombre":"annie",
+            "icono": "iamgen"
+        },
+        {
+            "nombre":"lux",
+            "icono": "iamgen"
+        },
+        {
+            "nombre":"irelia",
+            "icono": "iamgen"
+        },
+        {
+            "nombre":"teemo",
+            "icono": "iamgen"
+        }
+    ]
+}
