@@ -21,10 +21,12 @@ class App extends Component {
           <div className="card mt-4">
             <div className="card-header">
              <h3>{personaje.nombre}</h3>
-            </div>
-          
+             <spam className="badge badge-pill badge-danger ml-2">
+              {personaje.clase}
+             </spam>
+            </div>            
             <div className = "card-body">
-              <p>{personaje.icono}</p>
+            <img src={personaje.icono}/>
             </div>
           </div>
         </div>
